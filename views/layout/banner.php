@@ -8,7 +8,7 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="<?= baseUrl ?>user/index">Inicio</a>
-      <a class="nav-item nav-link" href="<?= baseUrl ?>medicamento/gestion">Registrar Medicamento</a>
+      <a class="nav-item nav-link" href="<?= baseUrl ?>medicamento/gestion">Registrar Medicamentos</a>
       <a class="nav-item nav-link text-danger" href="<?= baseUrl ?>user/logout">Salir</a>
       <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
     </div>
